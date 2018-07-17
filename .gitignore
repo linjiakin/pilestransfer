@@ -1,0 +1,15 @@
+/target/
+/.settings/
+.project
+.classpath
+.mymetadata
+.idea
+*.iml
+.idea/workspace.xml
+dist/
+*.tmp
+*.jar
+*.war
+*/target/
+.DS_Store
+*/.DS_Store
